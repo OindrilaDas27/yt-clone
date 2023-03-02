@@ -17,7 +17,7 @@ const SearchBar = () => {
             mr: { sm: 5 },
         }}>
             <input 
-                className="searxh-bar"
+                className="search-bar"
                 placeholder='Search...'
                 value=""
                 onChange={() => {}}
